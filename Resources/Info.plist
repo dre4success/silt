@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Silt</string>
+	<key>CFBundleIconFile</key>
+	<string>Silt</string>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.dre4success.silt</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Silt</string>
+	<key>CFBundleDisplayName</key>
+	<string>Silt</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 The Silt authors. MIT License.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Silt asks Finder to empty the Trash when you tell it to.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>Silt measures what's in your Desktop folder so it can show where your space went.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>Silt measures what's in your Documents folder so it can show where your space went.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Silt measures your Downloads folder and points out old installers and downloads.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>Silt can measure a folder you choose on another drive.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>Silt can measure a folder you choose on a network drive.</string>
+</dict>
+</plist>
